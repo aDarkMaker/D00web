@@ -9,6 +9,8 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^5.13.9"
-  }
+    "astro": "^5.13.9",
+    "canvas": "^3.2.0"
+  },
+  "license": "MIT"
 }
